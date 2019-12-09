@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Persona_Bar_Text
+Description=A Simple and Elegant Plymouth that Reflects You
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/smart_bar_text
+ScriptFile=/usr/share/plymouth/themes/smart_bar_text/smart_bar_text.script
